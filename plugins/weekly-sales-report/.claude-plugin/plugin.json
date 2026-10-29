@@ -1,0 +1,5 @@
+{
+  "name": "weekly-sales-report",
+  "version": "1.0.0",
+  "description": "판매관리 시트(판매내역)로 주간 매출 리포트를 만들어 슬랙에 첫 줄 메시지 + 스레드 형식으로 전송"
+}
